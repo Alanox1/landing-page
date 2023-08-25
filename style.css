@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header,
+.footer{
+    background-color: #1F2937;
+    color: #fff;
+}
+.header-content,
+main{
+    padding: 0px 150px;
+}
+.header-content{
+  
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    
+}
+
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+
+li{
+    list-style: none;
+}
