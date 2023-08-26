@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
 }
 .header,
 .footer{
@@ -12,7 +13,6 @@ main{
     padding: 0px 150px;
 }
 .header-content{
-  
     display: flex;
     justify-content: space-between;
     margin: 0;
@@ -27,4 +27,29 @@ ul{
 
 li{
     list-style: none;
+}
+
+.header-left,
+.header-right{
+    flex: 1;
+}
+
+
+main{
+    display: flex;
+    padding: 100px 200px;
+}
+.title{
+    font-size: 48px;
+    font-weight: bold;
+    color : #F9FAF8;
+}
+.text-header,
+a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.button-header{
+    background-color: #3882F6;
+    padding: 10px 30px;
 }
