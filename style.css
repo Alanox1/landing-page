@@ -4,7 +4,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .header,
-.footer{
+footer{
     background-color: #1F2937;
     color: #fff;
 }
@@ -123,4 +123,34 @@ a{
     font-size: 24px;
     font-weight: 900;
     text-align: end;
+}
+
+
+
+
+/*    sign up    */
+
+.sign-up-container{
+    padding: 0px 190px;
+    
+}
+
+.sign-up{
+    display: flex;
+    justify-content:center;
+    background-color: #3882F6;
+    padding: 20px 70px;
+    
+}
+
+
+
+
+/*     footer     */
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
