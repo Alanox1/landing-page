@@ -16,7 +16,7 @@ Making the page helped me to remember and improve some things about flex, such a
 
 ## PC View:
 
-![App Screenshot](./images/pantalla-final)
+![App Screenshot](./pantalla-final)
 
 
 ## Thanks for the images 
