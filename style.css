@@ -18,6 +18,10 @@ main{
     margin: 0;
     
 }
+.header-img{
+    width: 580px;
+    height: auto;
+}
 
 
 ul{
@@ -90,7 +94,10 @@ a{
 
 .information-image img{
     border-radius: 15px;
+    width: 200px;
+    height: auto;
 }
+
 .information-parrafo{
     margin: 0;
     font-size: 17px;
@@ -124,7 +131,6 @@ a{
     font-weight: 900;
     text-align: end;
 }
-
 
 
 
