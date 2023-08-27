@@ -1,40 +1,28 @@
-# landing-page
 
-
-Gracias por las imágenes a:
-
-- Tamás Mészáros, Web : https://www.behance.net/repuding
-- Tiana , Facebook : https://www.facebook.com/tatjana.djakova.56, Instagram : https://www.instagram.com/Diakova_art/
-- Polina Zimmerman, Instagram : https://www.instagram.com/namesofvenus/
-- Lum3n, Web :  https://creativemarket.com/Lum3n, Instagram : https://www.instagram.com/elum3a/
-- cottonbro studio, Web: https://omycotton.com/, Instagram : https://www.instagram.com/cottonbro/
+# Recipes Page
+This is the [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) exercise of the Odin Project curriculum.
 
 
 
+## Demo
+
+https://alanox1.github.io/landing-page/
 
 
+## What I learned is:
+
+Making the page helped me to remember and improve some things about flex, such as flex-grow, flex-shrink and flex-basis.
 
 
-# Página Web de [Nombre de tu Librería]
+## PC View:
 
-¡Bienvenido/a a la página web de [Nombre de tu Librería]!
+![App Screenshot](./images/pantalla-final)
 
-## Acerca de
 
-Este es el proyecto Landing Page de la sección de flexbox de The Odin Project
+## Thanks for the images 
 
-## Agradecimientos
-
-Quiero expresar mi más sincero agradecimiento a todas las personas que han contribuido a hacer posible esta página web:
-
-- [Mencionar nombres y roles de las personas que han colaborado en el desarrollo, diseño o contenido de la página.]
-
-## Contacto
-
-Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tus pensamientos sobre la página web, no dudes en ponerte en contacto con nosotros. Tu opinión es muy valiosa para nosotros.
-
-¡Esperamos que disfrutes navegando por nuestra página web y encuentres inspiración en el mundo de la literatura!
-
-[Nombre de tu Nombre]
-[Correo electrónico de contacto]
-[Teléfono de contacto]
+- [Tamás Mészáros](https://www.behance.net/repuding) 
+- [Tiana](https://www.instagram.com/Diakova_art/) 
+- [Polina Zimmerman](https://www.instagram.com/namesofvenus/) 
+- [Lum3n](https://www.instagram.com/elum3a/) 
+- [cottonbro studio](https://www.instagram.com/cottonbro/) 
