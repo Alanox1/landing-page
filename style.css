@@ -131,18 +131,27 @@ a{
 /*    sign up    */
 
 .sign-up-container{
-    padding: 0px 190px;
-    
+    padding: 0px 160px;
+    margin: 100px auto;
 }
 
 .sign-up{
     display: flex;
-    justify-content:center;
+    justify-content:space-around;
     background-color: #3882F6;
     padding: 20px 70px;
-    
+    color: white;
+    align-items: center;
 }
 
+.button-sign-up{
+    margin: 0;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+}
 
 
 
