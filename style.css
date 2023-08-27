@@ -10,7 +10,7 @@ body{
 }
 .header-content,
 main{
-    padding: 0px 150px;
+    padding: 0px 190px;
 }
 .header-content{
     display: flex;
@@ -37,19 +37,90 @@ li{
 
 main{
     display: flex;
-    padding: 100px 200px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 100px 170px;
 }
 .title{
     font-size: 48px;
-    font-weight: bold;
+    font-weight: bolder;
     color : #F9FAF8;
+    margin: 0;
 }
 .text-header,
 a{
     font-size: 18px;
     color: #E5E7EB;
 }
+.text-header{
+    margin: 0px 30px 20px 0px;
+}
 .button-header{
     background-color: #3882F6;
-    padding: 10px 30px;
+    margin-top: 130px;
+    padding: 10px 35px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+/*   Información    */
+.information{
+    padding: 0px 250px 100px 250px;
+}
+.information-title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color : #1F2937;
+    margin: 50px 0px;
+}
+
+.information-images-container{
+    display: flex;
+    gap: 30px;
+}
+
+.information-image{
+    text-align: center;
+}
+
+.information-image img{
+    border-radius: 15px;
+}
+.information-parrafo{
+    margin: 0;
+    font-size: 17px;
+    text-align: center;
+    color: rgb(77, 76, 76);
+    font-weight: 900;
+}
+
+
+
+
+
+
+/*    Quote section     */
+
+.quote-container{
+    background-color: #E5E7EB;
+    padding: 150px 270px 50px 270px;
+    
+}
+
+.quote-text{
+    font-size: 36px;
+    color: #1F2937;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.quote-h3{
+    font-size: 24px;
+    font-weight: 900;
+    text-align: end;
 }
